@@ -1,5 +1,5 @@
 USE SalesDB
-
+--COALESCE can take an unlimited number of arguments
 SELECT
 	ShipAddress,
 	BillAddress,

@@ -1,5 +1,5 @@
 USE SalesDB
-
+--ISNULL can take only 2 arguments
 SELECT 
 	Orders.ShipAddress,
 	Orders.BillAddress,

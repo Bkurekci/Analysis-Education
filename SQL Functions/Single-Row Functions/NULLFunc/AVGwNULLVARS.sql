@@ -1,4 +1,4 @@
-SELECT
+SELECT --Fixing the null variables to find the correct average amount
 	CustomerID,
 	Score,
 	COALESCE(Score, 0) AS [Clean Scores],

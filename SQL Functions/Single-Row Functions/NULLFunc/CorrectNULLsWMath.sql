@@ -1,3 +1,4 @@
+--We can first clean the data and then combine it.
 SELECT
 	FirstName,
 	LastName,

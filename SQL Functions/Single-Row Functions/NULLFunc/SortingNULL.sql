@@ -1,3 +1,4 @@
+--We can sort data intelligently by separating NULL values ​​from actual data.
 SELECT
 	CustomerID,
 	Score
